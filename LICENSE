@@ -1,0 +1,33 @@
+MAO MERIT-BASED LICENSE 1.0 (MMBL)
+
+Copyright (c) 2026 Mao Guanghui (毛广辉)
+
+This License governs the use and distribution of the TokenClaw-DR (Distribution Rights) 
+framework and the associated ChaKou Protocol logic assets.
+
+1. LOGIC OVER BACKGROUND
+The user acknowledges that technical merit is the sole criterion for the evaluation 
+of this architecture. Respect for the logical rigor and hardware-level integrity 
+of the design is mandatory, regardless of academic or institutional background.
+
+2. MANDATORY TOKEN AUTHORIZATION
+Access to, and execution of, the protected RTL logic (including encrypted .v.enc files) 
+is strictly managed via the TokenClaw-DR gateway. No party is permitted to:
+   a. Bypass the remote authentication handshake.
+   b. Use the logic for commercial tape-out or manufacturing without a valid, 
+      architect-issued Token.
+   c. Reverse-engineer the encrypted physical layer assets.
+
+3. ATTRIBUTION
+The original authorship of Mao Guanghui must be clearly attributed in any 
+research papers, documentation, or derivative hardware implementations.
+
+4. DISTRIBUTION RIGHTS (DR)
+The architect (Mao Guanghui) reserves all rights to manage the distribution 
+of the logic. Unauthorized redistribution of the source code or tokens 
+is a violation of this license.
+
+5. DISCLAIMER
+THE SOFTWARE AND ARCHITECTURE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY.
