@@ -38,9 +38,11 @@ The framework operates on a triple-layer security stack:
 [ LOGIC PROTECTED ] <------------------------|
 
 ### 🛠 System Requirements
-- **Environment**: Linux/Termux (Android)
-- **EDA Tools**: Icarus Verilog 12.0
-- **Language**: Python 3.10+ (Flask, Requests)
+- **Core Environment**: Linux / Termux (Android)
+- **Programming**: Python 3.10+
+- **Network**: Flask, Requests (for Token Handshake)
+- **Optional (for RTL Simulation)**: Icarus Verilog 12.0
+ (Required only when executing the fully decrypted .v.enc logic)
 
 ## 3. Operational Walkthrough (Step-by-Step)
 
