@@ -95,7 +95,7 @@ We have conducted rigorous local environment testing to ensure the **ChaKou Prot
 Below is the terminal output from the **TokenClaw-Anchor** verification. Notice the transition from **Active Memory Release** to **Physical Anchor Match**.
 
 <p align="center">
-  <img src="anchor_verification.png" alt="TokenClaw Anchor Verification" width="600">
+  <img src="assets/anchor_verification.png" alt="TokenClaw Anchor Verification" width="600">
 </p>
 
 > **Key Indicators in the Screenshot:**
