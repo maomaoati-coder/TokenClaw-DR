@@ -1,5 +1,6 @@
 TokenClaw-DR (Distribution Rights)
 ​A Centralized Remote Token Authorization & Logic Distribution Framework 
+
 ![Security](https://img.shields.io/badge/Security-Physical--Layer--Intercept-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Silicon--Ready--Simulation-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Mao--Merit--1.0-orange?style=for-the-badge)
