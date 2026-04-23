@@ -36,7 +36,7 @@ The framework operates on a triple-layer security stack:
        |-- 5. TRACE PURGE (Safe Exit)        |
        v                                     |
 [ LOGIC PROTECTED ] <------------------------|
-
+```
 ### 🛠 System Requirements
 - **Core Environment**: Linux / Termux (Android)
 - **Programming**: Python 3.10+
@@ -50,7 +50,7 @@ To ensure the security of the logic assets, follow this exact sequence to initia
 
 ### Step 1: Launch the Verification Hub (Server Side)
 Open your terminal (e.g., Termux or Linux Bash) and start the central authentication server. This acts as the "Brain" of the authorization network.
-```bash
+
 python mao_server.py
 
 ​What to look for: The terminal should display Running on http://0.0.0.0:5000.
